@@ -1,4 +1,4 @@
-# Directory Traversal Problem
+# Return to root Problem
 
 This problem is about traversing directories based on given commands and determining the depth of the current directory.
 
